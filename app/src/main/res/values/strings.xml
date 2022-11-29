@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubUserViewer</string>
+    <string name="users_title">Users</string>
+    <string name="favorite_users_title">Favorite Users</string>
+    <string name="bottom_navigation_item_list_text">List</string>
+    <string name="bottom_navigation_item_favorite_text">Favorite</string>
+</resources>

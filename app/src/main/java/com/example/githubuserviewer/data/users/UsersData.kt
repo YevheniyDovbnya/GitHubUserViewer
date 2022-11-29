@@ -1,0 +1,186 @@
+package com.example.githubuserviewer.data.users
+
+import com.example.githubuserviewer.R
+
+val USERS = listOf(
+    User(
+        id = 1,
+        name = "Tom Preston-Werner",
+        avatarId = R.drawable.android,
+        followers = 23258,
+    ),
+    User(
+        id = 2,
+        name = "Chris Wanstrath",
+        avatarId = R.drawable.android,
+        followers = 21577,
+    ),
+    User(
+        id = 3,
+        name = "PJ Hyett",
+        avatarId = R.drawable.android,
+        followers = 8218,
+    ),
+    User(
+        id = 4,
+        name = "Yehuda Katz",
+        avatarId = R.drawable.android,
+        followers = 10044,
+    ),
+    User(
+        id = 5,
+        name = "Ezra Zygmuntowicz",
+        avatarId = R.drawable.android,
+        followers = 537,
+    ),
+    User(
+        id = 6,
+        name = "Michael D. Ivey",
+        avatarId = R.drawable.android,
+        followers = 135,
+    ),
+    User(
+        id = 7,
+        name = "Evan Phoenix",
+        avatarId = R.drawable.android,
+        followers = 1516,
+    ),
+    User(
+        id = 17,
+        name = "Chris Van Pelt",
+        avatarId = R.drawable.android,
+        followers = 192,
+    ),
+    User(
+        id = 18,
+        name = "Wayne E. Seguin",
+        avatarId = R.drawable.android,
+        followers = 721,
+    ),
+    User(
+        id = 19,
+        name = "Bryan Helmkamp",
+        avatarId = R.drawable.android,
+        followers = 658,
+    ),
+    User(
+        id = 20,
+        name = "Kevin Clark",
+        avatarId = R.drawable.android,
+        followers = 100,
+    ),
+    User(
+        id = 21,
+        name = "technoweenie",
+        avatarId = R.drawable.android,
+        followers = 2601,
+    ),
+    User(
+        id = 22,
+        name = "arc-André Cournoyer",
+        avatarId = R.drawable.android,
+        followers = 1189,
+    ),
+    User(
+        id = 23,
+        name = "Toby Sterrett",
+        avatarId = R.drawable.android,
+        followers = 87,
+    ),
+    User(
+        id = 25,
+        name = "Justin Palmer",
+        avatarId = R.drawable.android,
+        followers = 2308,
+    ),
+    User(
+        id = 26,
+        name = "Geoffrey Grosenbach",
+        avatarId = R.drawable.android,
+        followers = 1303,
+    ),
+    User(
+        id = 27,
+        name = "Jesse Andrews",
+        avatarId = R.drawable.android,
+        followers = 175,
+    ),
+    User(
+        id = 28,
+        name = "Roland",
+        avatarId = R.drawable.android,
+        followers = 22,
+    ),
+    User(
+        id = 29,
+        name = "Lukas Biewald",
+        avatarId = R.drawable.android,
+        followers = 549,
+    ),
+    User(
+        id = 30,
+        name = "fanvsfan",
+        avatarId = R.drawable.android,
+        followers = 21,
+    ),
+    User(
+        id = 31,
+        name = "Tom ten Thij",
+        avatarId = R.drawable.android,
+        followers = 12,
+    ),
+    User(
+        id = 32,
+        name = "railsjitsu",
+        avatarId = R.drawable.android,
+        followers = 14,
+    ),
+    User(
+        id = 34,
+        name = "Nitay Joffe",
+        avatarId = R.drawable.android,
+        followers = 40,
+    ),
+    User(
+        id = 35,
+        name = "Kevin Williams",
+        avatarId = R.drawable.android,
+        followers = 47,
+    ),
+    User(
+        id = 36,
+        name = "Dave Fayram",
+        avatarId = R.drawable.android,
+        followers = 399,
+    ),
+    User(
+        id = 37,
+        name = "James Golick",
+        avatarId = R.drawable.android,
+        followers = 626,
+    ),
+    User(
+        id = 38,
+        name = "Corey Donohoe",
+        avatarId = R.drawable.android,
+        followers = 1283,
+    ),
+    User(
+        id = 44,
+        name = "errfree",
+        avatarId = R.drawable.android,
+        followers = 0,
+    ),
+    User(
+        id = 45,
+        name = "Seth Fitzsimmons",
+        avatarId = R.drawable.android,
+        followers = 553,
+    ),
+    User(
+        id = 46,
+        name = "Blake Mizerany\"",
+        avatarId = R.drawable.android,
+        followers = 1359,
+    ),
+)
